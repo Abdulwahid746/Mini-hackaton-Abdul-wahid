@@ -1,0 +1,36 @@
+*{
+    font-family: "Roboto", sans-serif;
+
+}
+body{
+    background-image: url(./asset/img/bg_1\ \(2\).jpg);
+}
+.phone{
+    display: flex;
+    background-color: #dddd;
+    justify-content:space-between;
+    align-items: end;
+}
+.tags{
+    justify-content: end;
+    align-items: end;
+}
+
+    
+.padding{
+    padding: 20px;
+}
+.button{
+    background-color: rgba(255, 0, 212, 0.301);
+    border-radius: 10px;
+    padding:  5px;
+
+
+}
+
+.footer{
+    background-color: #dddd;
+}
+
+
+
